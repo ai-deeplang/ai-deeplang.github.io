@@ -2,7 +2,7 @@
   "name": "canvas-sketch",
   "private": true,
   "version": "0.3.0",
-  "homepage": "https://productsaas.github.io/bmc-sketch/",
+  "homepage": "https://ai-deeplang.github.io/lean-canvas-sketch/",
   "type": "module",
   "scripts": {
     "dev": "vite",
