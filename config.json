@@ -1,0 +1,139 @@
+{
+    "version": "1.0",
+    "description": "MixDAO数字徽章",
+    "creators": [{
+        "name": "shadow",
+        "text": "设计黑客",
+        "url": "https://github.com/shadowcz007",
+        "selected": true
+    }, {
+        "name": "潜石",
+        "text": "微信号Einstein_Lannan，欢迎来到某石的Neverland，亲爱的彼得·潘们,这里有故事（推理，科幻，幽默...）也有社评，影评，心理专栏...... 愿助你的棱角，守护你的软肋，与这个斑斓世界，温柔共处。"
+    }, {
+        "name": "碳基肥柴",
+        "text": "无界成员ML764，不会写代码的设计师不是好肥宅，一个游走在艺术和程序之间的人，欢迎一起奔赴未来，开启无界之旅。",
+        "url": "https://www.mrthinker.top"
+    }, {
+        "name": "🌞",
+        "text": "AI可以在瞬间颠覆人的想象力，但并不会超越，除非摆烂",
+        "url": ""
+
+    }, {
+        "name": "杜韦柯",
+        "text": "设计跨学科探索者，DAO组织实践者，元宇宙记者编辑",
+        "url": ""
+    }, {
+        "name": "迷塔城MetaCity",
+        "text": "迷塔城1933是以赛博科幻姿态，追求潮流打卡的文化空间；依托1933老场坊精妙结构，近10000平的电影级科幻置景。在不同的势力建筑中留下影像，在迷塔城彰显个性姿态，你就是赛博世界的主角。",
+        "url": "https://mp.weixin.qq.com/s/U6WIPzgtYZR379UGBEN_ew"
+    }],
+    "sponsors": [{
+        "name": "Mixlab无界社区",
+        "url": "https://github.com/MixLabPro",
+        "selected": true
+    }, {
+        "name": "MixDAO",
+        "url": "https://github.com/MixDAO-Web3",
+        "selected": true
+    }, {
+        "name": "DeAutoDAO",
+        "url": "https://www.deauto.io"
+    }, {
+        "name": "shadow的实验室",
+        "url": "https://github.com/shadowcz007"
+    }, {
+        "name": "迷塔城MetaCity",
+        "url": "https://mp.weixin.qq.com/s/U6WIPzgtYZR379UGBEN_ew"
+    }],
+    "proposal": ["MixDAO通行证和徽章体系发布", "MetaCity启航数字纪念徽章"],
+    "skills": ["DAO架构师", "数字艺术家", "NFT收藏家", "人工智能专家", "元宇宙创作者", "DAO成员", "虚拟空间设计师", "导演", "设计师", "潮牌店主理人", "投资人", "路人甲", "学生", "跨界人才", "无边界学习者", "AI艺术家", "算法工程师", "程序员", "设计黑客", "艺术黑客", "科幻作者", "游戏设计师", "独立开发者", "开源项目发起人", "老师", "顾问", "首席品牌官", "首席产品官", "增长黑客", "专栏作者"],
+    "certifications": [{
+        "name": "MixDAO",
+        "url": "https://github.com/MixDAO-Web3",
+        "selected": true
+    }],
+    "technicalSupports": [{
+        "name": "bigan",
+        "url": "http://bigan.s11edao.com",
+        "selected": true
+    }, {
+        "name": "anyweb",
+        "url": "https://anyweb.cc",
+        "selected": true
+    }, {
+        "name": "Stable diffusion",
+        "url": "https://github.com/CompVis/stable-diffusion",
+        "selected": true
+    }],
+    "achievements": [{
+        "name": "Hello MixDAO",
+        "text": "今天，DAO成立啦~",
+        "selected": true
+    }, {
+        "name": "提案",
+        "text": "一起见证下一个苹果和谷歌的诞生"
+    }, {
+        "name": "乐于分享",
+        "text": "感谢你的每一次无私分享"
+    }, {
+        "name": "开拓者",
+        "text": "感谢你的每一次扩散"
+    }, {
+        "name": "共建者",
+        "text": "感谢参与建设组织"
+    }, {
+        "name": "超级个体",
+        "text": "寻找属于你的一片天地"
+    }, {
+        "name": "专栏作者",
+        "text": "感谢你的系统化输出"
+    }, {
+        "name": "Mix嘉宾",
+        "text": "分享无限，突破知识边界"
+    }, {
+        "name": "无边界学习者",
+        "text": "致敬跨学科、不设限的持续学习者"
+    }, {
+        "name": "激活器",
+        "text": "负责想出点子的人，创新的ABCDEF模型的A"
+    }, {
+        "name": "走访计划",
+        "text": "零距离，挖掘商业机会"
+    }, {
+        "name": "做客MixDAO",
+        "text": "寻找当代 Crypto 达芬奇"
+    }, {
+        "name": "AI生成挑战赛",
+        "text": "挑战自我，遇见更好的自己"
+    }, {
+        "name": "黑客马拉松",
+        "text": "一起协作，尽情创造"
+    }, {
+        "name": "数字内容与人工智能工作坊",
+        "text": "创造全新的数字体验"
+    }, {
+        "name": "NFT杂志",
+        "text": "全新的数字化体验，感谢你的共创"
+    }, {
+        "name": "开源见证",
+        "text": "一起见证开源项目的发布"
+    }, {
+        "name": "节日祝福",
+        "text": "我的未来，与你同在"
+    }, {
+        "name": "虚拟空间",
+        "text": "一起探索现实与虚拟的缝隙"
+    }, {
+        "name": "NFT通行证",
+        "text": "DAO成员的凭证，开启DAO的神秘通道"
+    }, {
+        "name": "MetaCity启航",
+        "text": "世集文旅在2022.9.13出发,带着迷塔城,带着人类对元宇宙的期待和幻想,赋予SH1933星球一个浪漫的定义"
+    }, {
+        "name": "BookDAO成立运营小组",
+        "text": "成立运营小组，制定语雀共建文档，正式探索《元宇宙创意图谱》知识DAO/MixDAO运营与商业模式"
+    }, {
+        "name": "Mixlab创造力团队",
+        "text": "每一次协作，都代表着你的成长"
+    }]
+}
