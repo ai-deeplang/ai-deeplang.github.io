@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MixAchievements v1.2</title>
+    <title>Badge for NFT v1.0</title>
     <style>
         body {
             margin: 0;
@@ -39,7 +39,7 @@
         .btn {
             width: 44px;
             height: 44px;
-            background: black;
+            background: #82318E;
             color: white;
             text-align: center;
             line-height: 44px;
@@ -77,7 +77,7 @@
             position: absolute;
             bottom: 22px;
             right: 50%;
-            color: black;
+            color: #82318E;
             background: #eee;
             outline: 1px solid white;
             line-height: 48px;
@@ -97,7 +97,7 @@
         }
         
         .tag {
-            background-color: aliceblue;
+            background-color: alice#82318E;
             line-height: 24px;
             font-size: 18px;
             padding: 6px;
@@ -157,7 +157,7 @@
         }
         
         header {
-            background-color: black;
+            background-color: #82318E;
             color: white;
             display: flex;
             justify-content: start;
@@ -180,7 +180,7 @@
             border: none;
             outline: none;
             margin-right: 12px;
-            background: black;
+            background: #82318E;
             color: #00bcd4;
         }
         
@@ -205,7 +205,7 @@
             display: flex;
             justify-content: flex-start;
             /* align-items: center; */
-            background-color: black;
+            background-color: #82318E;
         }
         
         #result {
@@ -229,7 +229,7 @@
         footer {
             height: 10vh;
             padding: 16px;
-            background-color: black;
+            background-color: #82318E;
             text-align: right;
             display: flex;
             color: white;
@@ -303,16 +303,7 @@
 
         <div class="logo">
             <div id="mix-description">
-
             </div>
-            <div class="info">
-                <div>[ MixAchievements ]</MixAchievements>
-                </div>
-                <div>
-                    < 帮助DAO成员积累声望>
-                </div>
-            </div>
-
         </div>
         <div class="right">
             <button id="setup"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-grid-3x3-gap-fill" viewBox="0 0 16 16">
@@ -327,7 +318,6 @@
     </main>
     <footer>
         <div id="loading-info">-</div>
-        <a href="https://github.com/shadowcz007">contact /  shadow</a>
     </footer>
 
 
@@ -795,7 +785,7 @@
             start(text = '开始加载...') {
                 this.element.innerText = text;
             }
-            end(text = '完成') {
+            end(text = 'Thx for MixLab') {
                 this.element.innerText = text;
             }
         }
@@ -1317,7 +1307,7 @@
             });
 
             const f2 = page.addFolder({
-                title: '徽章模版',
+                title: 'Badge Template',
             });
 
 
@@ -1529,7 +1519,7 @@
         }
 
         function initPoster(page) {
-            fetch('nft-event.svg').then(res => res.text()).then(text => {
+            fetch('roadmap.svg').then(res => res.text()).then(text => {
                 // console.log(text)
                 window._nftPosterSvg = text;
                 // window._p=text;
@@ -1930,10 +1920,10 @@
                             document.querySelector('#result').appendChild(im320);
                             document.querySelector('#result').appendChild(im);
                             im.addEventListener('click', e => {
-                                downloadFile(base64, 'nft_2048.png')
+                                downloadFile(base64, 'nft_theflywheel.png')
                             })
                             im320.addEventListener('click', e => {
-                                downloadFile(s320, 'nft_320.png')
+                                downloadFile(s320, 'nft_theflywheel_320.png')
                             });
                             resolve({
                                 image: s320,

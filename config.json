@@ -1,9 +1,9 @@
 {
     "version": "1.0",
-    "description": "清华i.product数字徽章",
+    "description": "清华i.product徽章生成器",
     "creators": [{
         "name": "Loi Ng",
-        "text": "Product Builder",
+        "text": "Business Architect",
         "url": "https://linkedin.com/in/theflywheel",
         "selected": true
     }, {
@@ -13,38 +13,32 @@
     }],
     "sponsors": [{
         "name": "创益联和",
-        "url": "https://catslinc.com",
-        "selected": true
-    }, {
-        "name": "四纪之道",
-        "url": "https://theforage.cn",
-        "selected": true
-    }, {
-        "name": "Roadmap.Education",
-        "url": "https://roadmap.education"
+        "url": "https://catslinc.com"
     }],
-    "proposal": ["i.product通行证和徽章体系发布", "i.product数字纪念徽章"],
-    "skills": ["战略设计师", "体验设计师", "产品架构师", "增长架构师", "i.product三周年特别徽章"],
+    "proposal": ["i.product通行证和徽章体系发布", "i.product三周年数字纪念徽章"],
+    "skills": ["战略设计师", "体验设计师", "产品架构师", "增长架构师", "i.product三周年徽章"],
     "certifications": [{
-        "name": "四纪之道",
-        "url": "https://theforage.cn",
+        "name": "Roadmap.Education",
+        "url": "https://roadmap.education",
         "selected": true
     }],
     "technicalSupports": [{
-        "name": "bigan",
-        "url": "http://bigan.s11edao.com",
+        "name": "四纪之道",
+        "url": "https://theforage.cn",
         "selected": true
+    },{
+        "name": "bigan",
+        "url": "http://bigan.s11edao.com"
     }, {
         "name": "anyweb",
-        "url": "https://anyweb.cc",
-        "selected": true
+        "url": "https://anyweb.cc"
     }],
     "achievements": [{
         "name": "5DK.Roadmap",
-        "text": "五道口产品人路线图的缔造者",
-        "selected": true
+        "text": "五道口产品人路线图的缔造者"
     }, {
         "name": "三周年",
-        "text": "清华大学学生互联网产品研究协会三周年"
+        "text": "清华大学学生互联网产品研究协会三周年",
+        "selected": true
     }]
 }

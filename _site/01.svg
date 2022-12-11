@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" 
 version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>MixDAO徽章模版02</title>
+<title>Badge Template 01</title>
     <defs>
         <filter x="-8.8%" y="-8.8%" width="117.6%" height="117.6%" filterUnits="objectBoundingBox" id="filter-1">
             <feGaussianBlur stdDeviation="23" in="SourceGraphic"></feGaussianBlur>
@@ -31,7 +31,7 @@ version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/
                 font-size="56" 
                 font-weight="500" 
                 fill="#FFFFFF"
-                >MIXDAO</textPath>
+                >Roadmap.Education</textPath>
             </text>  
         
             <path d="M0,0 L1024,0 L1024,1024 L0,1024 L0,0 Z M512,912 C732.9139,912 912,732.9139 912,512 C912,291.0861 732.9139,112 512,112 C291.0861,112 112,291.0861 112,512 C112,732.9139 291.0861,912 512,912 Z" id="mask" fill="#000000"></path>
