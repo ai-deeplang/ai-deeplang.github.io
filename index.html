@@ -552,6 +552,9 @@
                 }, {
                     type: 'url',
                     data: '03.svg'
+                }, {
+                    type: 'url',
+                    data: '04-tsinghua.svg'
                 }, ...this.getLocalList()].filter(f => f);
 
                 this.map = {};
@@ -782,7 +785,7 @@
                 }
                 // loading
                 // 提示加载开始
-            start(text = '开始加载...') {
+            start(text = 'Loading...') {
                 this.element.innerText = text;
             }
             end(text = 'Thx for MixLab') {

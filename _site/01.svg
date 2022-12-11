@@ -37,7 +37,7 @@ version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/
             <path d="M0,0 L1024,0 L1024,1024 L0,1024 L0,0 Z M512,912 C732.9139,912 912,732.9139 912,512 C912,291.0861 732.9139,112 512,112 C291.0861,112 112,291.0861 112,512 C112,732.9139 291.0861,912 512,912 Z" id="mask" fill="#000000"></path>
             
             <circle id="board-01" stroke="#FFFFFF" stroke-width="8" cx="512" cy="512" r="390"></circle>
-            <circle id="color-stroke" stroke="#FF760F" stroke-width="20" opacity="0.7" filter="url(#filter-1)" cx="512" cy="512" r="410"></circle>
+            <circle id="color-stroke" stroke="#002FA7" stroke-width="20" opacity="1" filter="url(#filter-1)" cx="512" cy="512" r="410"></circle>
             <rect id="light" fill="url(#radialGradient-2)" opacity="0.902189367" style="mix-blend-mode: hard-light;" x="0" y="0" width="1024" height="1024"></rect> 
     </g>
 </svg>
