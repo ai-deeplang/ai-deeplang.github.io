@@ -28,15 +28,18 @@
     "proposal": ["Roadmap.Education通行证和徽章体系", "i.product三周年纪念徽章"],
     "skills": ["Strategic Designer", "Experience Designer", "Venture Architect", "Growth Architect", "Business Architect", "Product Architect", "i.product三周年纪念徽章"],
     "certifications": [{
-        "name": "Roadmap.Education",
-        "url": "https://roadmap.education",
-        "selected": true
-    },{
         "name": "四纪之道",
         "url": "https://theforage.cn"
     },{
         "name": "创益联和",
         "url": "https://catslinc.com"
+    },{
+        "name": "Roadmap.Education",
+        "url": "https://roadmap.education",
+        "selected": true
+    },{
+        "name": "5DK.Roadmap",
+        "url": "https://roadmap.education/product-tsinghua"
     }],
     "technicalSupports": [{
         "name": "四纪之道",
@@ -50,11 +53,14 @@
         "url": "https://anyweb.cc"
     }],
     "achievements": [{
+        "name": "五道口产品观察",
+        "text": "i.product, 清华大学学生互联网产品研究协会",
+        "selected": true
+    }, {
         "name": "5DK.Roadmap",
         "text": "五道口产品人战略分析工具的缔造者"
     }, {
         "name": "三周年纪念",
         "text": "清华大学学生互联网产品研究协会三周年",
-        "selected": true
     }]
 }
