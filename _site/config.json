@@ -4,23 +4,39 @@
     "creators": [{
         "name": "Loi Ng",
         "text": "Business Architect",
-        "url": "https://linkedin.com/in/theflywheel",
+        "url": "https://catslinc.com/about",
         "selected": true
     }, {
         "name": "Roadmap.Education",
-        "text": "产品战略的可视化工具，从产品出发，去创造未来。",
+        "text": "Roadmap.Education, Strategic Tools and Methods for Business Architects and Product Builders. -- Loi Ng, Founder of Roadmap.Education",
         "url": "https://roadmap.education"
     }],
     "sponsors": [{
+        "name": "Roadmap.Education",
+        "url": "https://roadmap.education"
+    },{
+        "name": "四纪之道",
+        "url": "https://theforage.cn"
+    },{
         "name": "创益联和",
         "url": "https://catslinc.com"
+    },{
+        "name": "清华大学学生互联网研究协会",
+        "url": "https://catslinc.com",
+        "selected": true
     }],
-    "proposal": ["i.product通行证和徽章体系发布", "i.product三周年数字纪念徽章"],
-    "skills": ["战略设计师", "体验设计师", "产品架构师", "增长架构师", "i.product三周年徽章"],
+    "proposal": ["Roadmap.Education通行证和徽章体系", "i.product三周年纪念徽章"],
+    "skills": ["Strategic Designer", "Experience Designer", "Venture Architect", "Growth Architect", "Business Architect", "Product Architect", "i.product三周年纪念徽章"],
     "certifications": [{
         "name": "Roadmap.Education",
         "url": "https://roadmap.education",
         "selected": true
+    },{
+        "name": "四纪之道",
+        "url": "https://theforage.cn"
+    },{
+        "name": "创益联和",
+        "url": "https://catslinc.com"
     }],
     "technicalSupports": [{
         "name": "四纪之道",
@@ -35,9 +51,9 @@
     }],
     "achievements": [{
         "name": "5DK.Roadmap",
-        "text": "五道口产品人路线图的缔造者"
+        "text": "五道口产品人战略分析工具的缔造者"
     }, {
-        "name": "三周年",
+        "name": "三周年纪念",
         "text": "清华大学学生互联网产品研究协会三周年",
         "selected": true
     }]

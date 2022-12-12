@@ -741,7 +741,7 @@
                 s.svg(t);
                 let svg = s.children()[0];
                 // console.log(text, svg.findOne('#nft-text') && text && text != "")
-                if (svg.findOne('#nft-text') && text && text != "") svg.findOne('#nft-text').attr('startOffset', Math.round(Math.random() * 200)).text(text);
+                if (svg.findOne('#nft-text') && text && text != "") svg.findOne('#nft-text').text(text); //attr('startOffset', Math.round(Math.random() * 100)).
 
                 if (svg.findOne('#color-stroke')) svg.findOne('#color-stroke').attr('stroke', this.colors[Math.round(Math.random() * 10)]);
 
@@ -1904,7 +1904,7 @@
                 if (!url) return resolve();
 
                 let text = data.name;
-                if (data.sponsors && data.sponsors.length > 0) text = data.name + ' - ' + Array.from(data.sponsors, s => s.name).join(' & ');
+                if (data.sponsors && data.sponsors.length > 0) text = data.name + '-' + Array.from(data.sponsors, s => s.name).join('&');
 
                 template.create(text, url, 'png').then(async base64 => {
                     if (base64) {
